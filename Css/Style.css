@@ -1,0 +1,45 @@
+
+body{
+    background-image: url("../imagens/fundo.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+    background-attachment: fixed;
+
+}
+h1{
+    text-align: center;
+      
+}
+    
+.container{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:large;
+    max-width: 260px;
+    margin:auto;
+    margin-top: 10px;
+    background-image: url("../imagens/churras.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 15px;
+    border-radius: 10px;
+
+}
+
+input{
+    width: 100%;
+    display: block;
+    padding: 5px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+   border-radius: 10px;
+}
+
+button{
+    width: 50%;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 10px;
+
+}
